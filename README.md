@@ -1,5 +1,5 @@
-
-## Olá! Eu sou o René Kemalandua
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/renekemalandua/renekemalandua/blob/main/assets/perfil_git.png" />
+&nbsp;&nbsp;&nbsp;
 
 <div align="center" style="margin-bottom:100px">
   <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=renekemalandua&theme=radical&mode=weekly" />
