@@ -49,6 +49,13 @@ Boa codificação! 🚀✨
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-777bb4?style=for-the-badge&logo=PHP&logoColor=white)&nbsp;
+![Electron](https://img.shields.io/badge/Electron-47848f?style=for-the-badge&logo=Electron&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React%20Native-success?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 
 #### Databases:
 
