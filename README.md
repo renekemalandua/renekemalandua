@@ -6,22 +6,6 @@
 
 🚀 Desenvolvedor de software júnior fullstack em constante evolução, apaixonado por criar soluções inovadoras e transformar ideias em código. Minha jornada no desenvolvimento de software abrange tanto o universo web quanto o mobile e desktop. Com uma experiência sólida em diversas tecnologias, estou sempre em busca de desafios que me permitam ampliar meus conhecimentos e aprimorar minhas habilidades.
 
-Além de trabalhar no front-end e back-end para criar experiências incríveis, tenho um profundo interesse e estudo em conceitos como Clean Code, Clean Architecture, Microsserviços e Domain-Driven Design (DDD).
-
-💡 Acredito que a qualidade do código é essencial para o sucesso de qualquer projeto, e busco aplicar os princípios do Código Limpo para garantir legibilidade, manutenibilidade e escalabilidade em minhas soluções. Minha abordagem inclui a adoção de boas práticas de design e a busca constante por melhorias no processo de desenvolvimento.
-
-🏗️ No universo de arquiteturas, explorei a Arquitetura Limpa como uma estrutura sólida para o desenvolvimento de software, garantindo separação de preocupações e facilitando a evolução do sistema ao longo do tempo.
-
-🌐 Além disso, tenho treinado e aplicado os princípios de Microsserviços e Domain-Driven Design para criar sistemas distribuídos e centrados no domínio, soluções mais flexíveis e escaláveis.
-
-📚 Meu compromisso não se limita apenas ao código, mas também à compreensão aprofundada dos problemas do negócio, alinhando a tecnologia com as necessidades reais.
-
-🤝 Se você compartilha o interesse em construir sistemas robustos, escaláveis ​​e de alta qualidade, estou animado para contribuir em projetos que abracem esses princípios e que desafiem e expandam minhas habilidades.
-
-📫 Vamos construir algo incrível juntos! Sinta-se à vontade para explorar meus repositórios e entrar em contato para trocarmos ideias e experiências.
-
-Boa codificação! 🚀✨
-
 </div>
 &nbsp;&nbsp;&nbsp;
 
