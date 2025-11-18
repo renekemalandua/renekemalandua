@@ -1,8 +1,5 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/renekemalandua/renekemalandua/blob/main/assets/perfil_git.png" />
-&nbsp;&nbsp;&nbsp;
-
 <div>
-👋<h1> Hello, Welcome to my GitHub!</h1> 
+<h1> Hello, Welcome to my GitHub!</h1> 
 
 🚀 I am a fullstack software developer in constant evolution, passionate about creating innovative solutions and turning ideas into code. My journey in software development spans web, mobile, and desktop environments. With solid experience in various technologies, I am always seeking challenges that allow me to expand my knowledge and enhance my skills.
 
@@ -37,3 +34,22 @@
  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+## 📊 Estatísticas
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 30px;" 
+    src="https://github-readme-stats.vercel.app/api?username=renekemalandua&show_icons=true&theme=tokyonight&include_all_commits=true&include_all_prs=true" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=renekemalandua&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
