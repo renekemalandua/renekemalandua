@@ -34,22 +34,3 @@
  
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
-## 📊 Estatísticas
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 30px;" 
-    src="https://github-readme-stats.vercel.app/api?username=renekemalandua&show_icons=true&theme=tokyonight&include_all_commits=true&include_all_prs=true" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=renekemalandua&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
